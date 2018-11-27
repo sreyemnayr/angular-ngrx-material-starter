@@ -19,7 +19,8 @@ export const initialState: BookState = bookAdapter.getInitialState({
       title: 'Reactive Programming with Angular and ngrx',
       author: 'Oren Farhi',
       description:
-        'Learn to Harness the Power of Reactive Programming with RxJS and ngrx Extensions'
+        'Learn to Harness the Power of Reactive Programming with RxJS and ngrx Extensions',
+      age: '21'
     }
   }
 });

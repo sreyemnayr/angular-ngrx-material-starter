@@ -32,7 +32,8 @@ export class CrudComponent {
       id: uuid(),
       title: '',
       author: '',
-      description: ''
+      description: '',
+      age: ''
     };
   }
 
